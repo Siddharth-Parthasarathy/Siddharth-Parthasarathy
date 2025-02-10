@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Microsoft Azure Data Fundamentals DP-900]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://learn.microsoft.com/en-gb/users/siddharth-0575/credentials/8f48fa3ed683cdd9))
+- [Microsoft Azure Data Fundamentals DP-900](https://learn.microsoft.com/en-gb/users/siddharth-0575/credentials/8f48fa3ed683cdd9)
 
 
 <h2> 🤳 Connect with me:</h2>
