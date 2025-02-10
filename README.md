@@ -1,6 +1,6 @@
 <h1>Hi, I'm Siddharth! <br/></h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - [Conversational AI for Tailored Educational Pathways](https://github.com/joshmadakor1/Algorithms-Practice)
 
