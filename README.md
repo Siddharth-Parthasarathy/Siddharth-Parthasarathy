@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - [Conversational AI for Tailored Educational Pathways](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Case Study - Analyzing Customer Churn in Power BI](https://github.com/Siddharth-Parthasarathy/customer-churn-powerbi-case-study))
+- [Case Study - Analyzing Customer Churn in Power BI](https://github.com/Siddharth-Parthasarathy/customer-churn-powerbi-case-study)
 
 
 <h2>📄 Certifications:</h2>
