@@ -3,6 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - [Conversational AI for Tailored Educational Pathways](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Case Study - Analyzing Customer Churn in Power BI](https://your-link-here.com)
+
 
 <h2>📄 Certifications:</h2>
 
