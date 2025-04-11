@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- [Conversational AI for Tailored Educational Pathways](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Conversational AI for Tailored Educational Pathways](https://github.com/Siddharth-Parthasarathy/conversational_ai_for_tailored_educational_pathways)
 - [Case Study - Analyzing Customer Churn in Power BI](https://github.com/Siddharth-Parthasarathy/customer-churn-powerbi-case-study)
 
 
