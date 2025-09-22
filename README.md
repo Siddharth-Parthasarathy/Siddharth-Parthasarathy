@@ -3,9 +3,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - [Conversational AI for Tailored Educational Pathways](https://github.com/Siddharth-Parthasarathy/conversational_ai_for_tailored_educational_pathways)
-- Case Study - Analyzing Customer Churn:
-  [Power BI](https://github.com/Siddharth-Parthasarathy/customer-churn-powerbi-case-study) • 
-  [Excel](https://github.com/Siddharth-Parthasarathy/customer-churn-excel-case-study)
+- [Case Study - Analyzing Customer Churn - Power BI](https://github.com/Siddharth-Parthasarathy/customer-churn-powerbi-case-study)
+- [Case Study - Analyzing Customer Churn - Excel](https://github.com/Siddharth-Parthasarathy/customer-churn-excel-case-study)
+
 
 
 
